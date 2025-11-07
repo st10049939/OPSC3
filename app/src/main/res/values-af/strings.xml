@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotaApp</string>
+    <string name="login_button_text">Meld Aan</string>
+    <string name="register_button_text">Registreer</string>
+    <string name="email_hint">E-pos</string>
+    <string name="password_hint">Wagwoord</string>
+    <string name="logout">Logout</string>
+
+</resources>

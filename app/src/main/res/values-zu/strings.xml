@@ -1,0 +1,8 @@
+<resources><string name="app_name">NoteApp</string>
+    <string name="login_button_text">Ngena</string>
+    <string name="register_button_text">Bhalisa</string>
+    <string name="email_hint">I-imeyili</string>
+    <string name="password_hint">Iphasiwedi</string>
+    <string name="logout">Logout</string>
+
+</resources>
